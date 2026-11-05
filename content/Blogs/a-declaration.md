@@ -12,7 +12,9 @@ This is a pledge to myself and to you: None of this work will involve in any way
 I am surrounded by people who have given up. People who don't find joy or value in learning anymore. Who constantly question why i still bother. I feel sick to my core. We are the hollow men.
 
 
-I adopted LLM's in 2021, I used them to complete my university degree, I felt unstoppable.
+I adopted LLM's in 2021, I used them to complete my university degree, I felt unstoppable, the possibilities felt endless.
+
+I genuinely think i was patient zero for 'AI psychosis' 
 
     - I generated essays
     - I generated recipes
@@ -22,12 +24,16 @@ I adopted LLM's in 2021, I used them to complete my university degree, I felt un
 
 My brain has since atrophied...In fact, I noticed my self talking to people as I would with an LLM.
 For example, during a discussion I would predict the persons next sentence and abrasively interrupt them with my retort. 
-This is the same behaviour that emerges when using LLMS. This is referred to as 'steering' the LLM when you notice its got the wrong idea.
+This is the same behaviour that emerges when using LLMS . This is referred to as 'steering' the LLM when you notice its got the chain of inference is incorrect.
+
+
+This cognitive decline was almost undetectable internally, in my case I needed an external force.
+
 
 This [video](https://youtu.be/7pqF90rstZQ?si=QpKURZnRbtx8UP0X&t=1210) was the only reason I woke up approx 8 months ago.
 As she prophesied I couldn't even send an email or have a debate with my friends let alone program.
 In fact I never knew how to program by my standards today. And yet I completed a masters in data science...you do the maths.
-This technology is a net negative for humanity, the internet is unusable, the people who use it are unbearable. The solution is to simply go outside.
+This technology is a net negative for humanity, the internet is unusable, the people who use it are unbearable. The solution is to simply stop using it go outside.
 
 ## rebirth
 
