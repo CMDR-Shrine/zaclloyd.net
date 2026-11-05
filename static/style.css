@@ -1,5 +1,10 @@
 body {
     font-family: sans-serif;
-    background: #111;
+    background: #100F09;
     color: #ccc;
+}
+
+h1 {
+    color: FAF9F6;
+    fon-size: 2.5em
 }
